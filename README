@@ -3,9 +3,9 @@ NAME
     section text
 
 VERSION
-    This document describes version 0.01 of
+    This document describes version 0.02 of
     Pod::Weaver::Role::SectionText::SelfCompletion (from Perl distribution
-    Pod-Weaver-Role-SectionText-SelfCompletion), released on 2014-12-07.
+    Pod-Weaver-Role-SectionText-SelfCompletion), released on 2014-12-13.
 
 DESCRIPTION
     This role provides text for "COMPLETION" POD section. The text describes
